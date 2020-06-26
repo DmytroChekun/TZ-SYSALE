@@ -46,6 +46,8 @@
   padding: 40px;
   margin-left: 24px;
   margin-right: 24px;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
 }
 
 .product-card:hover {
