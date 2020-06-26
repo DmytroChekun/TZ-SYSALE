@@ -271,7 +271,7 @@
       border-radius: 5px;
     }
     & input[type=radio]:checked + label:before {
-      background: url(/images/checked.png) 0 0 no-repeat;
+      background: url(../images/checked.png) 0 0 no-repeat;
     }
     & label:hover:before {
     }
